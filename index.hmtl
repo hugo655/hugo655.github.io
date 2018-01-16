@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<link href="styles/style.css" rel="stylesheet" type="text/css">
+  	<link href="https://fonts.googleapis.com/css?family=Dosis" rel="stylesheet"> 
+    <meta charset="utf-8">
+    <title>My first webpage</title>
+  </head>
+  <body>
+
+  	<h1>Hugo's Webpage!</h1>
+    <img src="images/image-1.svg" alt="My test image" width="200" height="200">	
+    	<p>This is my first attempt to build a website.</p>
+
+    	<ul>
+    		<li>This is the first item</li>
+    		<li>This is the second item</li>
+    		<li>As you may guess ... this is the third item</li>
+    		<li>And so on ...</li>
+    	</ul>
+    	<p>Please excuse me if you think it's ugly.</p>
+    <h2>You'll find loads of interesting things here!</h2>
+    	<p>Like, for instance, this lovely picture of a knob:</p>
+    
+
+    	<p>You may click <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basic"s>here</a> if you want to learn with me</p>
+  <button>Change user</button>
+  <script src="scripts/main.js"></script>
+  </body>
+</html>
